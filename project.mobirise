@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lise Goossens",
-    "currentPage": "illustration.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -75,7 +75,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Lise Goossens Home",
         "meta_descr": "Lise Goossens, illustrator and artist\n\nportfolio, h1 Lise Goossens, h2 illustratie, illustration, art, kunst, luca school of arts, schilderijen, illustrator, kunstenaar, artist",
         "header_custom": "",
         "footer_custom": "",
@@ -149,7 +149,7 @@
     "contact.html": {
       "settings": {
         "meta_descr": "portfolio, h1 Lise Goossens, h2 contact, illustration, art, kunst, luca school of arts, schilderijen, illustrator",
-        "title": "contact",
+        "title": "Lise Goossens contact",
         "order": 5
       },
       "components": [
@@ -242,7 +242,7 @@
     "about.html": {
       "settings": {
         "meta_descr": "portfolio, h1 Lise Goossens, h2 about, illustration, art, kunst, luca school of arts, schilderijen, illustrator",
-        "title": "about",
+        "title": "Lise Goossens about",
         "order": 3
       },
       "components": [
@@ -335,7 +335,7 @@
     "illustration.html": {
       "settings": {
         "meta_descr": "portfolio, h1 Lise Goossens, h2 illustratie, illustration, art, kunst, luca school of arts, schilderijen, illustrator",
-        "title": "illustration",
+        "title": "Lise Goossens illustration",
         "order": 6
       },
       "components": [
@@ -1198,7 +1198,7 @@
     "privacy.html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
-        "title": "privacy",
+        "title": "Lise Goossens privacy",
         "order": 2
       },
       "components": [
