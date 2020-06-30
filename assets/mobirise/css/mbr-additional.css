@@ -3789,7 +3789,7 @@ body {
 }
 .cid-rMvO8OQqar {
   padding-top: 30px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rMvO8OQqar h4 {
@@ -3856,6 +3856,40 @@ body {
   .cid-s3ij19hurd .card:not(.last-child) {
     padding-bottom: 2rem;
   }
+}
+.cid-s3og3lDF7o {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 0px;
+}
+.cid-s3og3lDF7o .image-block {
+  margin: auto;
+}
+.cid-s3og3lDF7o figcaption {
+  position: relative;
+}
+.cid-s3og3lDF7o figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s3og3lDF7o .image-block {
+    width: 100% !important;
+  }
+}
+.cid-s3ogLjJs0y {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s3ogLjJs0y .mbr-text,
+.cid-s3ogLjJs0y blockquote {
+  color: #767676;
+}
+.cid-s3ogLjJs0y .mbr-text {
+  text-align: center;
+  color: #232323;
 }
 .cid-s3ijE60U9k {
   padding-top: 135px;
