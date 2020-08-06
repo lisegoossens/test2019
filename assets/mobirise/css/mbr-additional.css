@@ -4619,6 +4619,27 @@ body {
     width: 100% !important;
   }
 }
+.cid-s6Scctb16A {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 45px;
+}
+.cid-s6Scctb16A .image-block {
+  margin: auto;
+}
+.cid-s6Scctb16A figcaption {
+  position: relative;
+}
+.cid-s6Scctb16A figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s6Scctb16A .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rWZaKfaaKC {
   padding-top: 30px;
   padding-bottom: 30px;
