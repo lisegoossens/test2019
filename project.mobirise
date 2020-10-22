@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lise Goossens",
-    "currentPage": "CV.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -74,9 +74,9 @@
   "pages": {
     "contact.html": {
       "settings": {
-        "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
+        "meta_descr": "Lise Goossens is an illustrator based in Belgium. She draws and paints mysterious atmospheres, and takes inspiration from the strangeness of her dreams. She would love to recreate this dreamworld in her drawings.",
         "title": "Lise Goossens contact",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -197,7 +197,7 @@
       "settings": {
         "meta_descr": "privacy",
         "title": "Lise Goossens privacy",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -231,7 +231,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator from Belgium, currently pursuing a masters degree in Fine Arts at LUCA school of arts Ghent. \n\nLise Goossens postkaarten",
         "title": "postkaarten",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -322,7 +322,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "CV",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -358,7 +358,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator from Belgium, currently pursuing a masters degree in Fine Arts at LUCA school of arts Ghent. ",
         "title": "shop test",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -548,7 +548,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is a Belgian illustrator and artist",
         "title": "illustration oud",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -2123,7 +2123,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "schetsboek",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -2158,7 +2158,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "quarantaine",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -2344,7 +2344,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Sunflowers",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -2506,7 +2506,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "oil pastel drawings",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2794,7 +2794,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "irene",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -3321,7 +3321,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "digital",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -3609,7 +3609,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "comic",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -3771,7 +3771,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "spots",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -4143,7 +4143,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "dogs",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -4347,7 +4347,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "line drawings",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -4704,7 +4704,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "Lise Goossens about OUD",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -4821,9 +4821,9 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
+        "meta_descr": "Lise Goossens is an illustrator based in Belgium. She draws and paints mysterious atmospheres, and takes inspiration from the strangeness of her dreams. She would love to recreate this dreamworld in her drawings.",
         "title": "Lise Goossens about",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -4942,7 +4942,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "paintings ",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -5125,7 +5125,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Paintings</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Orange sky<br><i><br></i>About the continuation of life with the threat of wildfires outside.<br><br>acrylic paint on black paper<br>14,8 x 21 cm<br><br>&nbsp;<br>2020<br><br></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Paintings</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">Orange sky<br><i><br></i>About the continuation of life with the threat of wildfires outside.<br><br>acrylic paint on black paper<br>21x 14,8 cm<br><br>&nbsp;<br>2020<br><br></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content4-5g",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -5650,7 +5650,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "monotypes",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -5839,7 +5839,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -6220,7 +6220,7 @@
       "settings": {
         "main": true,
         "title": "Lise Goossens illustration",
-        "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n\nLise Goossens is een Belgische illustratrice.",
+        "meta_descr": "Lise Goossens is an illustrator based in Belgium. She draws and paints mysterious atmospheres, and takes inspiration from the strangeness of her dreams. She would love to recreate this dreamworld in her drawings.\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -6538,7 +6538,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator from Belgium, currently pursuing a masters degree in Fine Arts at LUCA school of arts Ghent. ",
         "title": "shop oud",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -6945,7 +6945,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -7329,7 +7329,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -7644,7 +7644,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "about oud",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -7763,7 +7763,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator from Belgium, currently pursuing a masters degree in Fine Arts at LUCA school of arts Ghent. ",
         "title": "shop&nbsp;",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -8133,7 +8133,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator from Belgium, currently pursuing a masters degree in Fine Arts at LUCA school of arts Ghent. ",
         "title": "shop oud",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
