@@ -3665,6 +3665,35 @@ body {
 .cid-sfG4YmH3zH .mbr-section-subtitle {
   color: #767676;
 }
+.cid-sga6A8XFBm {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 0px;
+}
+.cid-sga6A8XFBm .image-block {
+  margin: auto;
+}
+.cid-sga6A8XFBm figcaption {
+  position: relative;
+}
+.cid-sga6A8XFBm figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sga6A8XFBm .image-block {
+    width: 100% !important;
+  }
+}
+.cid-sga6D3LT0h {
+  padding-top: 75px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-sga6D3LT0h .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-rWZaKfaaKC {
   padding-top: 30px;
   padding-bottom: 30px;
