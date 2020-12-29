@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lise Goossens",
-    "currentPage": "about.html",
+    "currentPage": "stek.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 195,
+    "uniqCompNum": 198,
     "versionPublish": "4.9.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -76,7 +76,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator based in Belgium. ",
         "title": "contact / Lise Goossens ",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -269,7 +269,7 @@
       "settings": {
         "meta_descr": "privacy",
         "title": "Lise Goossens privacy",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -303,7 +303,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "CV",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -339,7 +339,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is a Belgian illustrator and artist",
         "title": "illustration oud",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -1914,7 +1914,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "quarantaine",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2100,7 +2100,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "irene",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -2563,7 +2563,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "Lise Goossens about OUD",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -2682,7 +2682,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "monotypes",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -3012,7 +3012,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator from Belgium, currently pursuing a masters degree in Fine Arts at LUCA school of arts Ghent. ",
         "title": "shop oud",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -3416,7 +3416,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator from Belgium, currently pursuing a masters degree in Fine Arts at LUCA school of arts Ghent. ",
         "title": "shop oud",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -3881,7 +3881,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "commissions",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -4340,7 +4340,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "illustrations sizes",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -5069,7 +5069,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium. She draws and paints mysterious atmospheres, and takes inspiration from the strangeness of her dreams. She would love to recreate this dreamworld in her drawings.",
         "title": "about met foto",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -5235,7 +5235,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium. She draws and paints mysterious atmospheres, and takes inspiration from the strangeness of her dreams. She would love to recreate this dreamworld in her drawings.",
         "title": "Lise Goossens about dec 2020",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -5401,7 +5401,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator based in Belgium. ",
         "title": "about / Lise Goossens",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -5570,7 +5570,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator based in Belgium. ",
         "title": "illustration / Lise Goossens",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -6830,7 +6830,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -7138,6 +7138,125 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
+        }
+      ]
+    },
+    "stek.html": {
+      "settings": {
+        "meta_descr": "/",
+        "title": "stek",
+        "order": 1
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(0deg, @color2, @bgColor)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image3",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"70\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#cc2952\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/planten.jpg\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_anchor": "image3-5g",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "skyYIR5Pf8",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(0deg, @color2, @bgColor)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image3",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"6\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"70\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#cc2952\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/fonteindroom2000.jpg\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_anchor": "image3-5h",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "skyYJfHKcc",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".media-container-row .mbr-text": {
+              "color": "#cccccc"
+            }
+          },
+          "_name": "footer6",
+          "_customHTML": "<section group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background5.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2020 Lise Goossens</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rWZaKfaaKC",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {},
+          "_anchor": "footer6-5f"
         }
       ]
     }
