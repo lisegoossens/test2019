@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lise Goossens",
-    "currentPage": "illustration.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 200,
+    "uniqCompNum": 195,
     "versionPublish": "4.9.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -323,7 +323,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>CV<div><br></div><div>Lise Goossens (°1998, Wilrijk, Belgium)</div><div><br></div><div>Education</div><div>2019-2020 LUCA school of arts Ghent, master in fine arts: illustration</div><div>2016-2019 LUCA school of arts Ghent, bachelor in fine arts: illustration</div><div><br></div><div>Residencies and exhibitions</div><div>Residency ‘Chinese Whispers’, Frans Masereel center Kasterlee, via LUCA school of arts, November 2019</div><div>Group exhibition Honger, Zwijgershoek, Sint-Niklaas, October 2020&nbsp;</div><div>Group exhibition Na al dat terugplooien op mezelf..., CC Zwaneberg, Heist-op-den-berg, October 2020&nbsp;</div><div>Group exhibition The show must go on (graduation show), LUCA school of arts, Ghent, September 2020</div><div>Group exhibition On Point, Surface Gallery, online, August - September 2020</div><div>Group exhibition Zomersalon 2020: Buy Local, Kunsthal, Ghent, July 17th - August 30th 2020</div><div>Group exhibition Bazart, Sint-Niklaas, August 2019</div><div>Group exhibition Kunstgrillen, Barvizart, Antwerp, May 2019</div><div>Group exhibition Angst, Dr. Guislain Museum, Ghent, 2018</div><div>Group exhibition Wallpaper, showroom MAMA, Rotterdam, April-June 2017</div><div><br></div><div>Work and contributions for</div><div>The Release, Jeugdcentrum Vizit, COVID-19 zine, Ei magazine, de Optimist, multiple self-published zines, 2016-now.</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>CV<div><br></div><div>Lise Goossens (°1998, Wilrijk, Belgium)</div><div><br></div><div>Education</div><div>2019-2020 LUCA school of arts Ghent, master in fine art: illustration</div><div>2016-2019 LUCA school of arts Ghent, bachelor in fine art: illustration</div><div><br></div><div>Residencies and exhibitions</div><div>Residency ‘Chinese Whispers’, Frans Masereel center Kasterlee, via LUCA school of arts, November 2019</div><div>Group exhibition Honger, Zwijgershoek, Sint-Niklaas, October 2020&nbsp;</div><div>Group exhibition Na al dat terugplooien op mezelf..., CC Zwaneberg, Heist-op-den-berg, October 2020&nbsp;</div><div>Group exhibition The show must go on (graduation show), LUCA school of arts, Ghent, September 2020</div><div>Group exhibition On Point, Surface Gallery, online, August - September 2020</div><div>Group exhibition Zomersalon 2020: Buy Local, Kunsthal, Ghent, July 17th - August 30th 2020</div><div>Group exhibition Bazart, Sint-Niklaas, August 2019</div><div>Group exhibition Kunstgrillen, Barvizart, Antwerp, May 2019</div><div>Group exhibition Angst, Dr. Guislain Museum, Ghent, 2018</div><div>Group exhibition Wallpaper, showroom MAMA, Rotterdam, April-June 2017</div><div><br></div><div>Work and contributions for</div><div>De Optimist, Jeugdcentrum Vizit, Subbacultcha He(art), COVID-19 zine, Ei magazine, the Release, multiple self-published zines, 2016-now.</div></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-20",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
