@@ -4437,6 +4437,35 @@ body {
 .cid-skEFVo0Ndf .mbr-section-subtitle {
   color: #767676;
 }
+.cid-snFgzYgs8W {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 0px;
+}
+.cid-snFgzYgs8W .image-block {
+  margin: auto;
+}
+.cid-snFgzYgs8W figcaption {
+  position: relative;
+}
+.cid-snFgzYgs8W figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-snFgzYgs8W .image-block {
+    width: 100% !important;
+  }
+}
+.cid-snFgwZfvZw {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-snFgwZfvZw .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-smwLuSTOtv {
   background: #ffffff;
   padding-top: 75px;
