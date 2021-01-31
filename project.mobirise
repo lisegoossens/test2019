@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lise Goossens",
-    "currentPage": "index.html",
+    "currentPage": "illustration.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 197,
+    "uniqCompNum": 195,
     "versionPublish": "4.9.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -76,7 +76,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator based in Belgium. ",
         "title": "contact / Lise Goossens ",
-        "order": 7
+        "order": 3
       },
       "components": [
         {
@@ -269,7 +269,7 @@
       "settings": {
         "meta_descr": "privacy",
         "title": "Lise Goossens privacy",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -303,7 +303,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "CV",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -339,7 +339,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is a Belgian illustrator and artist",
         "title": "illustration oud",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -1914,7 +1914,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "quarantaine",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -2100,7 +2100,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "irene",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
@@ -2563,7 +2563,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "Lise Goossens about OUD",
-        "order": 22
+        "order": 21
       },
       "components": [
         {
@@ -2682,7 +2682,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "monotypes",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -3012,7 +3012,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator from Belgium, currently pursuing a masters degree in Fine Arts at LUCA school of arts Ghent. ",
         "title": "shop oud",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
@@ -3416,7 +3416,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator from Belgium, currently pursuing a masters degree in Fine Arts at LUCA school of arts Ghent. ",
         "title": "shop oud",
-        "order": 21
+        "order": 20
       },
       "components": [
         {
@@ -3881,7 +3881,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "commissions",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -4340,7 +4340,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "illustrations sizes",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -5069,7 +5069,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium. She draws and paints mysterious atmospheres, and takes inspiration from the strangeness of her dreams. She would love to recreate this dreamworld in her drawings.",
         "title": "about met foto",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -5235,7 +5235,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium. She draws and paints mysterious atmospheres, and takes inspiration from the strangeness of her dreams. She would love to recreate this dreamworld in her drawings.",
         "title": "Lise Goossens about dec 2020",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -5401,7 +5401,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator based in Belgium. ",
         "title": "about / Lise Goossens",
-        "order": 5
+        "order": 2
       },
       "components": [
         {
@@ -5570,7 +5570,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator based in Belgium. ",
         "title": "illustration / Lise Goossens",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -7358,7 +7358,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -7673,7 +7673,7 @@
       "settings": {
         "meta_descr": "/",
         "title": "stek",
-        "order": 1
+        "order": 4
       },
       "components": [
         {
@@ -7792,7 +7792,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator based in Belgium. ",
         "title": "Page 20",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -7985,7 +7985,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator based in Belgium. ",
         "title": "test",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
