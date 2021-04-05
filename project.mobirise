@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lise Goossens",
-    "currentPage": "editorial.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 195,
+    "uniqCompNum": 196,
     "versionPublish": "4.9.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -76,7 +76,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is a freelance illustrator based in Ghent, Belgium. Contact her for editorial work, food illustration, book covers, personal commissions or other illustration work.\n\nLise Goossens is een freelance illustrator gevestigd in Gent, België. Neem contact met haar op voor redactionele illustraties, tekeningen van eten, boekomslagen, persoonlijke projecten of ander illustratiewerk.",
         "title": "contact / Lise Goossens ",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -175,11 +175,11 @@
             }
           },
           "_name": "image3",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"55\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#cc2952\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/photo-21-01-2021-09-5.jpg\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_customHTML": "<section group=\"Images &amp; Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"52\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#cc2952\" condition=\"gradientBg &amp;&amp; fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/print2.jpg\" width=\"1400\" alt=\"Mobirise\" title=\"\">\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text=\"\" class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_anchor": "image3-5f",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "siKx7ikYIv",
+          "_cid": "stHxQEYter",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -269,7 +269,7 @@
       "settings": {
         "meta_descr": "privacy",
         "title": "Lise Goossens privacy",
-        "order": 12
+        "order": 14
       },
       "components": [
         {
@@ -303,7 +303,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is a freelance illustrator based in Ghent, Belgium. Contact her for editorial work, food illustration, book covers, personal commissions or other illustration work.\n\nLise Goossens is een freelance illustrator gevestigd in Gent, België. Neem contact met haar op voor redactionele illustraties, tekeningen van eten, boekomslagen, persoonlijke projecten of ander illustratiewerk.",
         "title": "CV",
-        "order": 13
+        "order": 15
       },
       "components": [
         {
@@ -339,7 +339,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is a Belgian illustrator and artist",
         "title": "illustration oud",
-        "order": 18
+        "order": 20
       },
       "components": [
         {
@@ -1914,7 +1914,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "quarantaine",
-        "order": 16
+        "order": 18
       },
       "components": [
         {
@@ -2100,7 +2100,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "irene",
-        "order": 17
+        "order": 19
       },
       "components": [
         {
@@ -2563,7 +2563,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "Lise Goossens about OUD",
-        "order": 21
+        "order": 23
       },
       "components": [
         {
@@ -2826,7 +2826,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator from Belgium, currently pursuing a masters degree in Fine Arts at LUCA school of arts Ghent. ",
         "title": "shop oud",
-        "order": 19
+        "order": 21
       },
       "components": [
         {
@@ -3230,7 +3230,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator from Belgium, currently pursuing a masters degree in Fine Arts at LUCA school of arts Ghent. ",
         "title": "shop oud",
-        "order": 20
+        "order": 22
       },
       "components": [
         {
@@ -3695,7 +3695,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "commissions",
-        "order": 14
+        "order": 16
       },
       "components": [
         {
@@ -4154,7 +4154,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "illustrations sizes",
-        "order": 15
+        "order": 17
       },
       "components": [
         {
@@ -4883,7 +4883,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium. She draws and paints mysterious atmospheres, and takes inspiration from the strangeness of her dreams. She would love to recreate this dreamworld in her drawings.",
         "title": "Lise Goossens about dec 2020",
-        "order": 11
+        "order": 13
       },
       "components": [
         {
@@ -5218,7 +5218,7 @@
       "settings": {
         "meta_descr": "/",
         "title": "stek",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -5337,7 +5337,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator based in Belgium. ",
         "title": "about oud",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -8518,7 +8518,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is a freelance illustrator based in Ghent, Belgium. Contact her for editorial work, food illustration, book covers, personal commissions or other illustration work.\n\nLise Goossens is een freelance illustrator gevestigd in Gent, België. Neem contact met haar op voor redactionele illustraties, tekeningen van eten, boekomslagen, persoonlijke projecten of ander illustratiewerk.",
         "title": "Page 18",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
