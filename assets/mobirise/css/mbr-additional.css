@@ -3955,6 +3955,35 @@ body {
 .cid-smEbAabVox .mbr-section-subtitle {
   color: #767676;
 }
+.cid-suslr7Vb2o {
+  background: #ffffff;
+  padding-top: 75px;
+  padding-bottom: 0px;
+}
+.cid-suslr7Vb2o .image-block {
+  margin: auto;
+}
+.cid-suslr7Vb2o figcaption {
+  position: relative;
+}
+.cid-suslr7Vb2o figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-suslr7Vb2o .image-block {
+    width: 100% !important;
+  }
+}
+.cid-susltFDoYv {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-susltFDoYv .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-skEFWTGrCS {
   background: #ffffff;
   padding-top: 60px;
