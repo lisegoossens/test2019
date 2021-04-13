@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lise Goossens",
-    "currentPage": "page20.html",
+    "currentPage": "hometest.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10771,9 +10771,9 @@
         }
       ]
     },
-    "page20.html": {
+    "hometest.html": {
       "settings": {
-        "title": "Page 20",
+        "title": "home test",
         "meta_descr": "Lise Goossens is a freelance illustrator based in Ghent, Belgium. Contact her for editorial work, food illustration, book covers, personal commissions or other illustration work.\n\nLise Goossens is een freelance illustrator gevestigd in Gent, België. Neem contact met haar op voor redactionele illustraties, tekeningen van eten, boekomslagen, persoonlijke projecten of ander illustratiewerk.\n",
         "header_custom": "",
         "footer_custom": "",
