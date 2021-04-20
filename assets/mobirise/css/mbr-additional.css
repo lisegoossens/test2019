@@ -1374,7 +1374,7 @@ body {
 }
 .cid-riJ76q3Chf {
   padding-top: 15px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-riJ76q3Chf .mbr-text,
@@ -1387,6 +1387,24 @@ body {
 }
 .cid-riJ76q3Chf .mbr-text P {
   text-align: left;
+  color: #232323;
+}
+.cid-sv8DKinNHL {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-sv8DKinNHL .mbr-text,
+.cid-sv8DKinNHL blockquote {
+  color: #767676;
+}
+.cid-sv8DKinNHL .mbr-text {
+  text-align: center;
+  color: #232323;
+}
+.cid-sv8DKinNHL .mbr-text P {
+  text-align: left;
+  color: #c1c1c1;
 }
 .cid-rWZcuRelSO {
   padding-top: 30px;

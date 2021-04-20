@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lise Goossens",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 199,
+    "uniqCompNum": 196,
     "versionPublish": "4.9.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -225,13 +225,42 @@
               "color": "#232323"
             },
             ".mbr-text P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#232323"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 0.9rem;\">email: <a href=\"mailto:lise@waltergoossens.com\">lise@waltergoossens.com</a></span></p><p><span style=\"font-size: 0.9rem;\">Instagram: </span><a href=\"http://instagram.com/goossens.lise\" style=\"font-size: 0.9rem; background-color: rgb(255, 255, 255);\">@goossens.lise</a><br></p><p>Facebook: <a href=\"http://facebook.com/goossenslise\">facebook.com/goossenslise</a></p><p><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 0.9rem;\">email: <a href=\"mailto:lise@waltergoossens.com\">lise@waltergoossens.com</a></span></p><p><span style=\"font-size: 0.9rem;\">Instagram: </span><a href=\"http://instagram.com/goossens.lise\" style=\"font-size: 0.9rem; background-color: rgb(255, 255, 255);\">@goossens.lise</a><br></p><p>Facebook: <a href=\"http://facebook.com/goossenslise\">facebook.com/goossenslise</a></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-3",
           "_cid": "riJ76q3Chf",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center",
+              "color": "#232323"
+            },
+            ".mbr-text P": {
+              "text-align": "left",
+              "color": "#c1c1c1"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>RPR Gent, BTW: BE-0766.500.532</p><p><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-5f",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sv8DKinNHL",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -4309,7 +4338,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Lise Goossens (°1998) is a freelance illustrator based in Ghent, Belgium. In 2020, she received her master's degree in fine art: illustration at LUCA school of arts Ghent. She takes a lot of inspiration from her dreams, but can also handle editorial illustrations very well. She likes the texture of paint, and well chosen colours. She loves drawing food, plants, people and interiors.</p><p>Some work that she is especially interested in would be editorial illustration, packaging, posters, and book illustration, but she’s also available to work on personal commissions. Don't hesitate to reach out via email with any questions you have!</p><div><br></div><div>(<a href=\"CV.html\">CV</a>)</div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Lise Goossens (°1998) is a freelance illustrator based in Ghent, Belgium. In 2020, she received her master's degree in fine art: illustration at LUCA school of arts. She takes a lot of inspiration from her dreams, but can also handle editorial illustrations very well. She likes the texture of paint, and well chosen colours. She loves drawing food, plants, people and interiors.</p><p>Some work that she is especially interested in would be editorial illustration, packaging, posters, and book illustration, but she’s also available to work on personal commissions. Don't hesitate to reach out via email with any questions you have!</p><div><br></div><div>(<a href=\"CV.html\">CV</a>)</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-5k",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
