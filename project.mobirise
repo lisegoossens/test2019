@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lise Goossens",
-    "currentPage": "shop.html",
+    "currentPage": "CV.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13,8 +13,8 @@
         "warningColor": "#879a9f",
         "dangerColor": "#232323",
         "mainFont": "Rubik",
-        "display1Font": "Rubik",
-        "display1Size": "3",
+        "display1Font": "Source Code Pro",
+        "display1Size": "0.9",
         "display2Font": "Source Serif Pro",
         "display2Size": "1.1",
         "display5Font": "Source Serif Pro",
@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 209,
+    "uniqCompNum": 204,
     "versionPublish": "4.9.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -68,6 +68,16 @@
         "css": "'Merriweather', serif",
         "name": "Merriweather",
         "url": "https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i"
+      },
+      {
+        "css": "'Playfair Display', serif",
+        "name": "Playfair Display",
+        "url": "https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Abril Fatface', display",
+        "name": "Abril Fatface",
+        "url": "https://fonts.googleapis.com/css?family=Abril+Fatface:400"
       }
     ]
   },
@@ -298,7 +308,7 @@
       "settings": {
         "meta_descr": "privacy",
         "title": "Lise Goossens privacy",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -352,11 +362,227 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>CV<div><br></div><div>Lise Goossens (°1998, Wilrijk, Belgium)</div><div><br></div><div>Education</div><div>2019-2020 LUCA school of arts Ghent, master in fine art: illustration (cum laude)</div><div>2016-2019 LUCA school of arts Ghent, bachelor in fine art: illustration</div><div><br></div><div>Residencies and exhibitions</div><div>Residency ‘Chinese Whispers’, Frans Masereel center Kasterlee, via LUCA school of arts, November 2019</div><div>Group exhibition Tiny expo, Oostende, forthcoming</div><div>Group exhibition Zomersalon 2021: Buy Local, Kunsthal, Ghent, July - August 2021</div><div>Group exhibition Tekenen in Lockdown, SMAK, Gent, 2021</div><div>Group exhibition Honger, Zwijgershoek, Sint-Niklaas, October 2020&nbsp;</div><div>Group exhibition Na al dat terugplooien op mezelf..., CC Zwaneberg, Heist-op-den-berg, October 2020&nbsp;</div><div>Group exhibition The show must go on (graduation show), LUCA school of arts, Ghent, September 2020</div><div>Group exhibition On Point, Surface Gallery, online, August - September 2020</div><div>Group exhibition Zomersalon 2020: Buy Local, Kunsthal, Ghent, July 17th - August 30th 2020</div><div>Group exhibition 7 bananen 24 stella, LUCA school of arts, Ghent, March 2020</div><div>Group exhibition Bazart, Sint-Niklaas, August 2019</div><div>Group exhibition Kunstgrillen, Barvizart, Antwerp, May 2019</div><div>Group exhibition Angst, Dr. Guislain Museum, Ghent, 2018</div><div>Group exhibition Wallpaper, showroom MAMA, Rotterdam, April-June 2017</div><div><br></div><div>Work and contributions for</div><div>Heksen Dragen Sneakers, de Optimist, Op Ruwe Planken, Jeugdcentrum Vizit, SMAK tekenen in lockdown, Subbacultcha He(art), COVID-19 zine, Ei magazine, the Release, multiple self-published zines</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>CV<div><br></div><div>Lise Goossens (°1998, Wilrijk, Belgium)</div><div><br></div></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-20",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rJjJzT0yPk",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center",
+              "color": "#232323"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div style=\"text-align: left;\"><span style=\"font-size: 0.9rem; text-align: center;\"><b>Education</b></span></div><div style=\"text-align: left;\"><span style=\"font-size: 0.9rem; text-align: center;\"><br></span></div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-5h",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sGTONFmrMo",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center",
+              "color": "#232323"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 0.9rem;\">2019-2020 LUCA school of arts Ghent, master in fine art: illustration (cum laude)</span><br></div><div>2016-2019 LUCA school of arts Ghent, bachelor in fine art: illustration</div><div><br></div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-5i",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sGTP2I7VTz",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center",
+              "color": "#232323"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 0.9rem;\"><b>Exhibitions</b></span></div><div><br></div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-5k",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sGTPhlyk3H",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center",
+              "color": "#232323"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 0.9rem;\">Tiny expo, Oostende, forthcoming</span><br></div><div>Ruimte Zoekt Kunstenaar, Ensemble, Ghent, August 21-22nd 2021</div><div>Zomersalon 2021: Buy Local, Kunsthal, Ghent, July - August 2021</div><div>Tekenen in Lockdown, SMAK, Ghent, 2021</div><div><br></div><div>Honger, Zwijgershoek, Sint-Niklaas, October 2020&nbsp;</div><div>Na al dat terugplooien op mezelf..., CC Zwaneberg, Heist-op-den-berg, October 2020&nbsp;</div><div>The show must go on (graduation show), LUCA school of arts, Ghent, September 2020</div><div>On Point, Surface Gallery, online, August - September 2020</div><div>Zomersalon 2020: Buy Local, Kunsthal, Ghent, July 17th - August 30th 2020</div><div>7 bananen 24 stella, LUCA school of arts, Ghent, March 2020</div><div><br></div><div>Bazart, Sint-Niklaas, August 2019</div><div>Kunstgrillen, Barvizart, Antwerp, May 2019</div><div><br></div><div>Angst, Dr. Guislain Museum, Ghent, 2018</div><div><br></div><div>Wallpaper, showroom MAMA, Rotterdam, April-June 2017</div><div><br></div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-5j",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sGTP9xSx56",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center",
+              "color": "#232323"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><b><span style=\"font-size: 0.9rem;\">Residencies</span><br></b></div><div><br></div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-5g",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sGTOJ045qJ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center",
+              "color": "#232323"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 0.9rem;\">‘Chinese Whispers’, Frans Masereel center Kasterlee, November 2019</span><br></div><div><br></div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-5l",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sGTPrRqLLy",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center",
+              "color": "#232323"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 0.9rem;\"><b>Work and contributions for</b></span></div><div><span style=\"font-size: 0.9rem;\"><br></span></div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-5m",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sGTPsGnRUp",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center",
+              "color": "#232323"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 0.9rem;\">Heksen Dragen Sneakers, de Optimist, Op Ruwe Planken, Jeugdcentrum Vizit, SMAK tekenen in lockdown, Subbacultcha He(art), COVID-19 zine, Ei magazine, the Release, multiple self-published zines</span><br></div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-5n",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "sGTPBD1Rpm",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -368,7 +594,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is a Belgian illustrator and artist",
         "title": "illustration oud",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -1943,7 +2169,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "quarantaine",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -2129,7 +2355,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "irene",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -2592,7 +2818,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.",
         "title": "Lise Goossens about OUD",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -2855,7 +3081,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "commissions",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -3314,7 +3540,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium.\n",
         "title": "illustrations sizes",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -4043,7 +4269,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an illustrator based in Belgium. She draws and paints mysterious atmospheres, and takes inspiration from the strangeness of her dreams. She would love to recreate this dreamworld in her drawings.",
         "title": "Lise Goossens about dec 2020",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -4378,7 +4604,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is an artist and illustrator based in Belgium. ",
         "title": "about oud",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -8063,7 +8289,7 @@
       "settings": {
         "meta_descr": "Lise Goossens is a freelance illustrator based in Ghent, Belgium. Contact her for editorial work, food illustration, book covers, personal commissions or other illustration work.\n\nLise Goossens is een freelance illustrator gevestigd in Gent, België. Neem contact met haar op voor redactionele illustraties, tekeningen van eten, boekomslagen, persoonlijke projecten of ander illustratiewerk.",
         "title": "Page 18",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -12138,7 +12364,7 @@
       "settings": {
         "meta_descr": "links",
         "title": "links",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -13498,6 +13724,42 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
+          "_params": {}
+        }
+      ]
+    },
+    "page24.html": {
+      "settings": {
+        "meta_descr": "Lise Goossens is a freelance illustrator based in Ghent, Belgium. Contact her for editorial work, food illustration, book covers, personal commissions or other illustration work.\n\nLise Goossens is een freelance illustrator gevestigd in Gent, België. Neem contact met haar op voor redactionele illustraties, tekeningen van eten, boekomslagen, persoonlijke projecten of ander illustratiewerk.",
+        "title": "CV met 'group exhibition'",
+        "order": 11
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center",
+              "color": "#232323"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>CV<div><br></div><div>Lise Goossens (°1998, Wilrijk, Belgium)</div><div><br></div><div>Education</div><div>2019-2020 LUCA school of arts Ghent, master in fine art: illustration (cum laude)</div><div>2016-2019 LUCA school of arts Ghent, bachelor in fine art: illustration</div><div><br></div><div>Residencies and exhibitions</div><div>Residency ‘Chinese Whispers’, Frans Masereel center Kasterlee, via LUCA school of arts, November 2019</div><div>Group exhibition Tiny expo, Oostende, forthcoming</div><div>Group exhibition Ruimte Zoekt Kunstenaar, Ensemble, Ghent, August 21-22nd 2021</div><div>Group exhibition Zomersalon 2021: Buy Local, Kunsthal, Ghent, July - August 2021</div><div>Group exhibition Tekenen in Lockdown, SMAK, Gent, 2021</div><div>Group exhibition Honger, Zwijgershoek, Sint-Niklaas, October 2020&nbsp;</div><div>Group exhibition Na al dat terugplooien op mezelf..., CC Zwaneberg, Heist-op-den-berg, October 2020&nbsp;</div><div>Group exhibition The show must go on (graduation show), LUCA school of arts, Ghent, September 2020</div><div>Group exhibition On Point, Surface Gallery, online, August - September 2020</div><div>Group exhibition Zomersalon 2020: Buy Local, Kunsthal, Ghent, July 17th - August 30th 2020</div><div>Group exhibition 7 bananen 24 stella, LUCA school of arts, Ghent, March 2020</div><div>Group exhibition Bazart, Sint-Niklaas, August 2019</div><div>Group exhibition Kunstgrillen, Barvizart, Antwerp, May 2019</div><div>Group exhibition Angst, Dr. Guislain Museum, Ghent, 2018</div><div>Group exhibition Wallpaper, showroom MAMA, Rotterdam, April-June 2017</div><div><br></div><div>Work and contributions for</div><div>Heksen Dragen Sneakers, de Optimist, Op Ruwe Planken, Jeugdcentrum Vizit, SMAK tekenen in lockdown, Subbacultcha He(art), COVID-19 zine, Ei magazine, the Release, multiple self-published zines</div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-20",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rJjJzT0yPk",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
           "_params": {}
         }
       ]
