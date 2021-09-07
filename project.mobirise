@@ -13,8 +13,8 @@
         "warningColor": "#879a9f",
         "dangerColor": "#232323",
         "mainFont": "Rubik",
-        "display1Font": "Source Code Pro",
-        "display1Size": "0.9",
+        "display1Font": "Rubik",
+        "display1Size": "3",
         "display2Font": "Source Serif Pro",
         "display2Size": "1.1",
         "display5Font": "Source Serif Pro",
@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 204,
+    "uniqCompNum": 196,
     "versionPublish": "4.9.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -68,16 +68,6 @@
         "css": "'Merriweather', serif",
         "name": "Merriweather",
         "url": "https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i"
-      },
-      {
-        "css": "'Playfair Display', serif",
-        "name": "Playfair Display",
-        "url": "https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900,400i,500i,600i,700i,800i,900i"
-      },
-      {
-        "css": "'Abril Fatface', display",
-        "name": "Abril Fatface",
-        "url": "https://fonts.googleapis.com/css?family=Abril+Fatface:400"
       }
     ]
   },
@@ -551,7 +541,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 0.9rem;\"><b>Work and contributions for</b></span></div><div><span style=\"font-size: 0.9rem;\"><br></span></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 0.9rem;\"><b>Illustrations and contributions for</b></span></div><div><span style=\"font-size: 0.9rem;\"><br></span></div></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-5m",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -578,7 +568,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 0.9rem;\">Heksen Dragen Sneakers, de Optimist, Op Ruwe Planken, Jeugdcentrum Vizit, SMAK tekenen in lockdown, Subbacultcha He(art), COVID-19 zine, Ei magazine, the Release, multiple self-published zines</span><br></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 0.9rem;\">Heksen Dragen Sneakers, de Optimist, Op Ruwe Planken, Jeugdcentrum Vizit, SMAK tekenen in lockdown boek, Subbacultcha He(art), COVID-19 zine, Ei magazine, the Release, multiple self-published zines</span><br></div></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-5n",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
