@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lise Goossens",
-    "currentPage": "index.html",
+    "currentPage": "privacy.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -77,8 +77,8 @@
   "pages": {
     "privacy.html": {
       "settings": {
-        "meta_descr": "privacy",
-        "title": "Lise Goossens privacy",
+        "meta_descr": "privacy and cookie policy",
+        "title": "privacy / Lise Goossens",
         "order": 24
       },
       "components": [
@@ -99,7 +99,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Cookie policy</b></p><p>This site uses cookies.&nbsp;</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Cookie policy</b></p><p>Cookies are small pieces of data that are downloaded to your computer or mobile device when you visit a website or app. This site uses cookies to optimise the performance of the site and make it easier for you to navigate. We also use Google Analytics to analyse which pages are visited on this site, for how long, and through which source visitors end up here. We also get some information about you, for example what device you are using to view this site.</p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-v",
           "_cid": "rlhWtBpHwe",
           "_protectedParams": [],
