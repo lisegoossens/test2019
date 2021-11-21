@@ -7465,6 +7465,35 @@ body {
 .cid-sqZzpQr1ix .mbr-section-subtitle {
   color: #767676;
 }
+.cid-sPpgDKAN86 {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 0px;
+}
+.cid-sPpgDKAN86 .image-block {
+  margin: auto;
+}
+.cid-sPpgDKAN86 figcaption {
+  position: relative;
+}
+.cid-sPpgDKAN86 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sPpgDKAN86 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-sPpgE2DMpF {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sPpgE2DMpF .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-sGKzGIKg0p {
   background: #ffffff;
   padding-top: 60px;
@@ -9096,6 +9125,59 @@ body {
 .cid-sMcbHQ8ZFl .mbr-section-subtitle {
   color: #767676;
 }
+.cid-sPq4w4qOeN {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-sPq4w4qOeN .images-container.container-fluid {
+  padding: 0;
+}
+.cid-sPq4w4qOeN .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+}
+.cid-sPq4w4qOeN .media-container-row .img-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+.cid-sPq4w4qOeN .media-container-row .img-item img {
+  width: 100%;
+}
+.cid-sPq4w4qOeN .media-container-row .img-item .img-caption {
+  background: #ffffff;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-sPq4w4qOeN .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-sPq4w4qOeN .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-sPq4w4qOeN .img-item {
+    width: 100% !important;
+  }
+  .cid-sPq4w4qOeN .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+  }
+}
+.cid-sPpgnGMXWu {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sPpgnGMXWu .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-sqZzp4rBdy {
   background: #ffffff;
   padding-top: 60px;
@@ -9230,27 +9312,6 @@ body {
 }
 @media (max-width: 768px) {
   .cid-sJrYrItvok .image-block {
-    width: 100% !important;
-  }
-}
-.cid-sBOth6K5ka {
-  background: #ffffff;
-  padding-top: 45px;
-  padding-bottom: 0px;
-}
-.cid-sBOth6K5ka .image-block {
-  margin: auto;
-}
-.cid-sBOth6K5ka figcaption {
-  position: relative;
-}
-.cid-sBOth6K5ka figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-sBOth6K5ka .image-block {
     width: 100% !important;
   }
 }
