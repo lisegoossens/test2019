@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lise Goossens",
-    "currentPage": "index.html",
+    "currentPage": "CV.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -349,7 +349,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 0.9rem;\">Heksen Dragen Sneakers, de Optimist, Op Ruwe Planken, Reveil, Jeugdcentrum Vizit, SMAK tekenen in lockdown boek, Subbacultcha He(art), Het ABC van Abattoir Fermé, COVID-19 zine, Ei magazine, the Release, multiple self-published zines</span><br></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><span style=\"font-size: 0.9rem;\">Heksen Dragen Sneakers, de Optimist, Op Ruwe Planken, Reveil, Jeugdcentrum Vizit, tekenen in lockdown boek (SMAK), Gentle Figures/Beautiful Friends (SMAK), Subbacultcha He(art), Het ABC van Abattoir Fermé, COVID-19 zine, Ei magazine, the Release, multiple self-published zines</span><br></div></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-5n",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
