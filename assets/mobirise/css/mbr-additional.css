@@ -8177,7 +8177,7 @@ body {
 }
 .cid-sO53aJp1MX {
   padding-top: 30px;
-  padding-bottom: 75px;
+  padding-bottom: 60px;
   background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-sO53aJp1MX .mbr-iconfont-social {
@@ -8186,6 +8186,23 @@ body {
 }
 .cid-sO53aJp1MX .social-list a:focus {
   text-decoration: none;
+}
+.cid-sRyJZLs9ej {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sRyJZLs9ej .mbr-text,
+.cid-sRyJZLs9ej blockquote {
+  color: #767676;
+}
+.cid-sRyJZLs9ej .mbr-text {
+  text-align: center;
+  color: #232323;
+}
+.cid-sRyJZLs9ej .mbr-text P {
+  text-align: center;
+  color: #c1c1c1;
 }
 .cid-rWZcuRelSO {
   padding-top: 0px;
