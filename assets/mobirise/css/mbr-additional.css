@@ -4052,7 +4052,7 @@ body {
 .cid-tCEJW6Z3qX {
   background: #ffffff;
   padding-top: 45px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
 }
 .cid-tCEJW6Z3qX .image-block {
   margin: auto;
@@ -4732,6 +4732,35 @@ body {
   background-color: #ffffff;
 }
 .cid-tx38uEWDxD .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-tNR4fGpGAr {
+  background: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 0px;
+}
+.cid-tNR4fGpGAr .image-block {
+  margin: auto;
+}
+.cid-tNR4fGpGAr figcaption {
+  position: relative;
+}
+.cid-tNR4fGpGAr figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-tNR4fGpGAr .image-block {
+    width: 100% !important;
+  }
+}
+.cid-tNR4g5Z5Fp {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-tNR4g5Z5Fp .mbr-section-subtitle {
   color: #767676;
 }
 .cid-sOrXznLwWE {
@@ -6691,33 +6720,33 @@ body {
 .cid-sXjDqvwxJv H3 {
   color: #232323;
 }
-.cid-tx3dGXgsm1 {
+.cid-tNR4r3BJPD {
   background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 0px;
+  padding-top: 45px;
+  padding-bottom: 15px;
 }
-.cid-tx3dGXgsm1 .image-block {
+.cid-tNR4r3BJPD .image-block {
   margin: auto;
 }
-.cid-tx3dGXgsm1 figcaption {
+.cid-tNR4r3BJPD figcaption {
   position: relative;
 }
-.cid-tx3dGXgsm1 figcaption div {
+.cid-tNR4r3BJPD figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-tx3dGXgsm1 .image-block {
+  .cid-tNR4r3BJPD .image-block {
     width: 100% !important;
   }
 }
-.cid-tx3dHlHWT7 {
-  padding-top: 30px;
+.cid-tNR4roA3K9 {
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-tx3dHlHWT7 .mbr-section-subtitle {
+.cid-tNR4roA3K9 .mbr-section-subtitle {
   color: #767676;
 }
 .cid-tNt17X4FcW {
@@ -6747,6 +6776,35 @@ body {
   background-color: #ffffff;
 }
 .cid-tNt18m5yGR .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-tx3dGXgsm1 {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 0px;
+}
+.cid-tx3dGXgsm1 .image-block {
+  margin: auto;
+}
+.cid-tx3dGXgsm1 figcaption {
+  position: relative;
+}
+.cid-tx3dGXgsm1 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-tx3dGXgsm1 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-tx3dHlHWT7 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-tx3dHlHWT7 .mbr-section-subtitle {
   color: #767676;
 }
 .cid-tCELgJ6RFx {
